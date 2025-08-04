@@ -1,5 +1,11 @@
-node_modules/*
+# Node modules
+node_modules/
 
+# Environment variables
 .env
 
+# REST Client files (VS Code extension)
 requests.rest
+
+# Firebase / Service account keys
+react-js-blog-website-7e044-firebase-adminsdk-fbsvc-e5dc597e79.json
